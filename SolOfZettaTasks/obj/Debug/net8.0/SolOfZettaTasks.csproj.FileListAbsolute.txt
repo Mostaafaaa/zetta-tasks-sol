@@ -1,0 +1,14 @@
+D:\CSharp\App\bin\Debug\net8.0\SolOfZettaTasks.exe
+D:\CSharp\App\bin\Debug\net8.0\SolOfZettaTasks.deps.json
+D:\CSharp\App\bin\Debug\net8.0\SolOfZettaTasks.runtimeconfig.json
+D:\CSharp\App\bin\Debug\net8.0\SolOfZettaTasks.dll
+D:\CSharp\App\bin\Debug\net8.0\SolOfZettaTasks.pdb
+D:\CSharp\App\obj\Debug\net8.0\SolOfZettaTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\App\obj\Debug\net8.0\SolOfZettaTasks.AssemblyInfoInputs.cache
+D:\CSharp\App\obj\Debug\net8.0\SolOfZettaTasks.AssemblyInfo.cs
+D:\CSharp\App\obj\Debug\net8.0\SolOfZettaTasks.csproj.CoreCompileInputs.cache
+D:\CSharp\App\obj\Debug\net8.0\SolOfZettaTasks.dll
+D:\CSharp\App\obj\Debug\net8.0\refint\SolOfZettaTasks.dll
+D:\CSharp\App\obj\Debug\net8.0\SolOfZettaTasks.pdb
+D:\CSharp\App\obj\Debug\net8.0\SolOfZettaTasks.genruntimeconfig.cache
+D:\CSharp\App\obj\Debug\net8.0\ref\SolOfZettaTasks.dll
